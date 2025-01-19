@@ -6,8 +6,8 @@ Este es un portfolio creado con HTML y CSS
 
 - [LinkedIn](https://www.linkedin.com/in/mariana-cos-b4a9a554/)
 
-#VER EJEMPLO EN VIVO
+# VER EJEMPLO EN VIVO
 - [ENLACE GITHUBPAGES](https://cosmarian.github.io/mi-portolio)
 
-#Contactame
+# Contactame
 cosmarian@gmail.com
